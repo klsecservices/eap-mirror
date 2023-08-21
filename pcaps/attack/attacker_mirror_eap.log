@@ -1,0 +1,28 @@
+[INFO] Starting radius
+[INFO] Starting sniffer
+[INFO] Received Radius Authentication packet for 04:56:E5:12:34:56 client
+[INFO] Adding a new client: 04:56:E5:12:34:56
+[INFO] Attempting to send Start-EAP
+[INFO] Sending EAP-start
+[INFO] Sending data to wire, state 1, len 18
+[INFO] EAP server found, 18:fd:74:55:55:55
+[INFO] Sending data to wire, state 3, len 50
+[INFO] Responding with Radius AccessChallenge packet for 04:56:E5:12:34:56 client
+[INFO] Received Radius Authentication packet for 04:56:E5:12:34:56 client
+[INFO] Sending data to wire, state 3, len 208
+[INFO] Responding with Radius AccessChallenge packet for 04:56:E5:12:34:56 client
+[INFO] Received Radius Authentication packet for 04:56:E5:12:34:56 client
+[INFO] Sending data to wire, state 3, len 24
+[INFO] Responding with Radius AccessChallenge packet for 04:56:E5:12:34:56 client
+[INFO] Received Radius Authentication packet for 04:56:E5:12:34:56 client
+[INFO] Sending data to wire, state 3, len 24
+[INFO] Responding with Radius AccessChallenge packet for 04:56:E5:12:34:56 client
+[INFO] Received Radius Authentication packet for 04:56:E5:12:34:56 client
+[INFO] Sending data to wire, state 3, len 1294
+[INFO] Responding with Radius AccessChallenge packet for 04:56:E5:12:34:56 client
+[INFO] Received Radius Authentication packet for 04:56:E5:12:34:56 client
+[INFO] Sending data to wire, state 3, len 159
+[INFO] Responding with Radius AccessChallenge packet for 04:56:E5:12:34:56 client
+[INFO] Received Radius Authentication packet for 04:56:E5:12:34:56 client
+[INFO] Sending data to wire, state 3, len 24
+[INFO] Responding with Radius AccessChallenge packet for 04:56:E5:12:34:56 client
