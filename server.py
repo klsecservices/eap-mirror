@@ -1,6 +1,6 @@
 #!/usr/bin/python
-asdfddfrom pyrad import dictionary, packet as pyrad_packet, server
-adsffaimport logging
+from pyrad import dictionary, packet as pyrad_packet, server
+import logging
 import sys
 
 # suppress warning during scapy import
